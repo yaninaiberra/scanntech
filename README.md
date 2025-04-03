@@ -18,6 +18,8 @@ conda activate scanntech-challenge-env
 ## Folders
 
     ├── data        <- Data input for model
+    
+    ├── environment    <- Environment file for used libraries
 
 ## Challenge resolution
 
